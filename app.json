@@ -9,5 +9,14 @@
     "database tool",
     "database schema",
     "diagram"
+  ],
+  "env": {
+    "PHX_SERVER": true,
+    "DATABASE_URL": ""
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/srid/heroku-buildpack-elm.git"
+    }
   ]
 }
