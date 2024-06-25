@@ -1,0 +1,13 @@
+{
+  "name": "Azimutt",
+  "description": "Next-Gen ERD: Design, Explore, Document and Analyze your database.",
+  "repository": "https://github.com/azimuttapp/azimutt",
+  "logo": "https://azimutt.app/images/logo_dark.svg",
+  "keywords": [
+    "erd",
+    "entity-relationship diagram",
+    "database tool",
+    "database schema",
+    "diagram"
+  ]
+}
